@@ -141,3 +141,4 @@
 /home/georgeey/Desktop/A2SV/Project Phase/blog_crud1/obj/Debug/net8.0/blog_crud1.pdb
 /home/georgeey/Desktop/A2SV/Project Phase/blog_crud1/obj/Debug/net8.0/blog_crud1.genruntimeconfig.cache
 /home/georgeey/Desktop/A2SV/Project Phase/blog_crud1/obj/Debug/net8.0/ref/blog_crud1.dll
+/home/georgeey/Desktop/A2SV/Project Phase/blog_crud1/obj/Debug/net8.0/blog_crud1.sourcelink.json
